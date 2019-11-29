@@ -1,0 +1,9 @@
+plugin used
+npm install -g nodemon
+npm install express
+
+
+SQL tool
+MySQL - https://dev.mysql.com/downloads/mysql/ - after installation run on port 3306
+Visual tool for MySQL - https://www.mysql.com/products/workbench/
+
